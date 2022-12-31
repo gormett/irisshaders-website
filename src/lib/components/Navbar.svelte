@@ -1,9 +1,14 @@
-<nav class="bg-zinc-900 text-white py-4">
+<script>
+  let IrisLogo = './src/assets/images/iris-logo.webp';
+</script>
+
+
+<nav class="bg-zinc-900 text-white py-2">
     <div class="flex justify-between max-w-screen-xl mx-auto">
         <div class="flex items-center space-x-20">
-            <a href="https://irisshaders.net/" class="flex items-center">
-                <img src="https://irisshaders.net/images/logos/iristrans-p-800.webp" class="h-10 mr-3" alt="Iris Logo" />
-                <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">IRIS</span>
+            <a href="/" class="flex items-center">
+                <img src={IrisLogo} class="h-9 mr-2" alt="Iris Logo" />
+                <span class="text-2xl font-light whitespace-nowrap dark:text-white ">IRIS</span>
             </a>
 
             <div class="flex space-x-10">

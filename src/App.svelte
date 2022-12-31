@@ -1,8 +1,8 @@
 <script>
-  import svelteLogo from './assets/svelte.svg';
-  import Counter from './lib/Counter.svelte';
   import Navbar from './lib/components/Navbar.svelte';
+  import Hero from './lib/components/Hero.svelte';
   import Index from './lib/index.svelte';
+  import Features from './lib/components/Features.svelte';
   import Footer from './lib/components/Footer.svelte';
 </script>
 
@@ -11,7 +11,8 @@
 
 <main>
   <Navbar />
+  <Hero />
   <Index />
+  <Features />
   <Footer />
-
 </main>

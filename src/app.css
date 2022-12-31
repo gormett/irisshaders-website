@@ -10,5 +10,23 @@
 }
 
 button.primary{
-    @apply px-6 py-2 bg-rose-600 rounded-md text-white font-semibold text-center items-center flex flex-row justify-center;
+    @apply transition ease-in-out px-6 py-2 bg-rose-600 rounded-md text-white font-semibold text-center items-center flex flex-row justify-center;
+}
+
+button.primary:hover{
+    box-shadow: 0 0 25px #ce0f39;
+}
+
+/* custom scrollbar color */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: rgb(33, 33, 33)
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #474747;
+    border-radius: 10px;
 }
