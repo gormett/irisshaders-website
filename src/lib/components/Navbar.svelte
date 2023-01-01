@@ -12,7 +12,6 @@
             </a>
 
             <div class="flex space-x-10">
-                <a href="/">Home</a>
                 <a href="/">About</a>
             </div>
         </div>
