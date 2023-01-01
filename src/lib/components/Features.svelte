@@ -9,7 +9,7 @@
 
         <div class="flex space-x-16 text-right">
             <div class="flex flex-col w-1/2 space-y-6 justify-center max-w-md">
-                <h3 class="text-5xl font-bold">Optifine Parity</h3>
+                <h3 class="text-5xl font-bold">OptiFine Parity</h3>
                 <p class="font-light">Iris aims to have full support for all past, present and future OptiFine shader packs. The number of supported packs is constantly growing
                 </p>
 
