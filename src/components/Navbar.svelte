@@ -1,5 +1,5 @@
 <script>
-  let IrisLogo = './src/assets/svg/iris_logo_text_color.svg';
+  let IrisLogo = './svg/iris_logo_text_color.svg';
 </script>
 
 
@@ -11,8 +11,10 @@
                 <!-- <span class="text-2xl font-light whitespace-nowrap dark:text-white ">IRIS</span> -->
             </a>
 
-            <div class="flex space-x-10">
-                <a href="/">About</a>
+            <div class="flex space-x-10 text-zinc-400">
+                <a href="/" class="hover:text-zinc-50">Supported packs</a>
+                <a href="/" class="hover:text-zinc-50">About</a>
+                <a href="/" class="hover:text-zinc-50">GitHub</a>
             </div>
         </div>
 

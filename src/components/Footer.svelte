@@ -1,5 +1,5 @@
 <script>
-    let IrisLogo = './src/assets/svg/iris_logo_white.svg';
+    let IrisLogo = './svg/iris_logo_white.svg';
 </script>
 
 <footer class="bg-black text-zinc-500 mx-auto p-4 space-y-3 flex flex-col">

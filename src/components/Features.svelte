@@ -1,6 +1,6 @@
 <script>
-    let Screenshot1 = './src/assets/images/mainscreenshot1.webp';
-    let Screenshot2 = './src/assets/images/mainscreenshot2.webp';
+    let Screenshot1 = './images/mainscreenshot1.webp';
+    let Screenshot2 = './images/mainscreenshot2.webp';
 </script>
 
 
