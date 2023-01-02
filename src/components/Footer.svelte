@@ -11,12 +11,24 @@
     <!-- Socials -->
     <div class="mx-auto">
         <div class="flex flex-row h-8 fill-neutral-600 gap-x-10">
-            <Icon name="Youtube" />
-            <Icon name="Github" />
-            <Icon name="Discord" />
-            <Icon name="Twitter" />
-            <Icon name="Mastodon" />
-            <Icon name="Patreon" />
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Youtube" />
+            </a>
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Github" />
+            </a>
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Discord" />
+            </a>
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Twitter" />
+            </a>
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Mastodon" />
+            </a>
+            <a href="/" class="fill-neutral-600 hover:fill-neutral-400">
+                <Icon name="Patreon" />
+            </a>
         </div>
     </div>
 
